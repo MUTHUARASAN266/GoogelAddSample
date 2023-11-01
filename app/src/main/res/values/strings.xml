@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogelAddSample</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-7497008934040732/6923962033</string>
+    <string name="reward_ad_unit_id">ca-app-pub-7497008934040732/9569279001</string>
+</resources>
